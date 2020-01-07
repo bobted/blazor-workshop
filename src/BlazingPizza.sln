@@ -12,6 +12,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazingPizza.ComponentsLibr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazingComponents", "BlazingComponents\BlazingComponents.csproj", "{659BA43E-C36D-4F2D-A715-22465BE90792}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{0B6AD004-AF52-4BB5-ABBA-8D278558F25B}"
+	ProjectSection(SolutionItems) = preProject
+		..\docs\00-get-started.md = ..\docs\00-get-started.md
+		..\docs\01-components-and-layout.md = ..\docs\01-components-and-layout.md
+		..\docs\02-customize-a-pizza.md = ..\docs\02-customize-a-pizza.md
+		..\docs\03-show-order-status.md = ..\docs\03-show-order-status.md
+		..\docs\04-refactor-state-management.md = ..\docs\04-refactor-state-management.md
+		..\docs\05-checkout-with-validation.md = ..\docs\05-checkout-with-validation.md
+		..\docs\06-authentication-and-authorization.md = ..\docs\06-authentication-and-authorization.md
+		..\docs\07-javascript-interop.md = ..\docs\07-javascript-interop.md
+		..\docs\08-templated-components.md = ..\docs\08-templated-components.md
+		..\docs\09-progressive-web-app.md = ..\docs\09-progressive-web-app.md
+		..\docs\10-publish-and-deploy.md = ..\docs\10-publish-and-deploy.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
